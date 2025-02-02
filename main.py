@@ -21,7 +21,6 @@ def ask_restart():
     window_width = 200
     window_height = 100
 
-    # Poziționăm fereastra la mijlocul ecranului
     position_top = int((screen_height / 2) - (window_height / 2))
     position_left = int((screen_width / 2) - (window_width / 2))
 
